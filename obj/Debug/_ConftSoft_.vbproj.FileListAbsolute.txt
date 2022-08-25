@@ -1,0 +1,567 @@
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\_ConftSoft_\bin\Debug\_ConftSoft_.exe.config
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\_ConftSoft_\bin\Debug\_ConftSoft_.exe
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\_ConftSoft_\bin\Debug\_ConftSoft_.pdb
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\_ConftSoft_\bin\Debug\_ConftSoft_.xml
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\_ConftSoft_\obj\Debug\_ConftSoft_.vbproj.AssemblyReference.cache
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\_ConftSoft_\obj\Debug\_ConftSoft_.vbproj.SuggestedBindingRedirects.cache
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\_ConftSoft_\obj\Debug\Interop.ADODB.dll
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\_ConftSoft_\obj\Debug\_ConftSoft_.vbproj.ResolveComReference.cache
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\_ConftSoft_\obj\Debug\_ConftSoft_.Form1.resources
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\_ConftSoft_\obj\Debug\_ConftSoft_.Resources.resources
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\_ConftSoft_\obj\Debug\_ConftSoft_.vbproj.GenerateResource.cache
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\_ConftSoft_\obj\Debug\_ConftSoft_.vbproj.CoreCompileInputs.cache
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\_ConftSoft_\obj\Debug\_ConftSoft_.exe
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\_ConftSoft_\obj\Debug\_ConftSoft_.xml
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\_ConftSoft_\obj\Debug\_ConftSoft_.pdb
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\_ConftSoft_\obj\Debug\_ConftSoft_.frmEstoque.resources
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\_ConftSoft_\obj\Debug\_ConftSoft_.frmCadastro.resources
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\_ConftSoft_\obj\Debug\_ConftSoft_.frmGerencia.resources
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\_ConftSoft_\obj\Debug\_ConftSoft_.frmPedidos.resources
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\_ConftSoft_\obj\Debug\_ConftSoft_.frmTelaChefeCozinha.resources
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\_ConftSoft_\obj\Debug\_ConftSoft_.NovaSenha.resources
+C:\Users\Aluno\Desktop\_ConftSoft_\bin\Debug\_ConftSoft_.exe.config
+C:\Users\Aluno\Desktop\_ConftSoft_\bin\Debug\_ConftSoft_.exe
+C:\Users\Aluno\Desktop\_ConftSoft_\bin\Debug\_ConftSoft_.pdb
+C:\Users\Aluno\Desktop\_ConftSoft_\bin\Debug\_ConftSoft_.xml
+C:\Users\Aluno\Desktop\_ConftSoft_\obj\Debug\_ConftSoft_.vbproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\_ConftSoft_\obj\Debug\_ConftSoft_.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\_ConftSoft_\obj\Debug\Interop.ADODB.dll
+C:\Users\Aluno\Desktop\_ConftSoft_\obj\Debug\_ConftSoft_.vbproj.ResolveComReference.cache
+C:\Users\Aluno\Desktop\_ConftSoft_\obj\Debug\_ConftSoft_.Form1.resources
+C:\Users\Aluno\Desktop\_ConftSoft_\obj\Debug\_ConftSoft_.frmCadastro.resources
+C:\Users\Aluno\Desktop\_ConftSoft_\obj\Debug\_ConftSoft_.frmEstoque.resources
+C:\Users\Aluno\Desktop\_ConftSoft_\obj\Debug\_ConftSoft_.frmGerencia.resources
+C:\Users\Aluno\Desktop\_ConftSoft_\obj\Debug\_ConftSoft_.frmPedidos.resources
+C:\Users\Aluno\Desktop\_ConftSoft_\obj\Debug\_ConftSoft_.frmTelaChefeCozinha.resources
+C:\Users\Aluno\Desktop\_ConftSoft_\obj\Debug\_ConftSoft_.Resources.resources
+C:\Users\Aluno\Desktop\_ConftSoft_\obj\Debug\_ConftSoft_.NovaSenha.resources
+C:\Users\Aluno\Desktop\_ConftSoft_\obj\Debug\_ConftSoft_.vbproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\_ConftSoft_\obj\Debug\_ConftSoft_.vbproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\_ConftSoft_\obj\Debug\_ConftSoft_.exe
+C:\Users\Aluno\Desktop\_ConftSoft_\obj\Debug\_ConftSoft_.xml
+C:\Users\Aluno\Desktop\_ConftSoft_\obj\Debug\_ConftSoft_.pdb
+C:\Users\Aluno\Desktop\_ConftSoft_1\bin\Debug\_ConftSoft_.exe.config
+C:\Users\Aluno\Desktop\_ConftSoft_1\bin\Debug\_ConftSoft_.exe
+C:\Users\Aluno\Desktop\_ConftSoft_1\bin\Debug\_ConftSoft_.pdb
+C:\Users\Aluno\Desktop\_ConftSoft_1\bin\Debug\_ConftSoft_.xml
+C:\Users\Aluno\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.vbproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\_ConftSoft_1\obj\Debug\Interop.ADODB.dll
+C:\Users\Aluno\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.vbproj.ResolveComReference.cache
+C:\Users\Aluno\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.Form1.resources
+C:\Users\Aluno\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.frmGerencia.resources
+C:\Users\Aluno\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.frmPedidos.resources
+C:\Users\Aluno\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.frmTelaChefeCozinha.resources
+C:\Users\Aluno\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.Resources.resources
+C:\Users\Aluno\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.NovaSenha.resources
+C:\Users\Aluno\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.vbproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.vbproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.exe
+C:\Users\Aluno\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.xml
+C:\Users\Aluno\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.pdb
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\conftsoftVersoes\_ConftSoft_1\bin\Debug\_ConftSoft_.exe.config
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\conftsoftVersoes\_ConftSoft_1\bin\Debug\_ConftSoft_.exe
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\conftsoftVersoes\_ConftSoft_1\bin\Debug\_ConftSoft_.pdb
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\conftsoftVersoes\_ConftSoft_1\bin\Debug\_ConftSoft_.xml
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\conftsoftVersoes\_ConftSoft_1\obj\Debug\_ConftSoft_.vbproj.AssemblyReference.cache
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\conftsoftVersoes\_ConftSoft_1\obj\Debug\_ConftSoft_.vbproj.SuggestedBindingRedirects.cache
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\conftsoftVersoes\_ConftSoft_1\obj\Debug\Interop.ADODB.dll
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\conftsoftVersoes\_ConftSoft_1\obj\Debug\_ConftSoft_.vbproj.ResolveComReference.cache
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\conftsoftVersoes\_ConftSoft_1\obj\Debug\_ConftSoft_.Form1.resources
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\conftsoftVersoes\_ConftSoft_1\obj\Debug\_ConftSoft_.frmCodigoConfirmacao.resources
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\conftsoftVersoes\_ConftSoft_1\obj\Debug\_ConftSoft_.frmGerencia.resources
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\conftsoftVersoes\_ConftSoft_1\obj\Debug\_ConftSoft_.frmPedidos.resources
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\conftsoftVersoes\_ConftSoft_1\obj\Debug\_ConftSoft_.frmTelaChefeCozinha.resources
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\conftsoftVersoes\_ConftSoft_1\obj\Debug\_ConftSoft_.Resources.resources
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\conftsoftVersoes\_ConftSoft_1\obj\Debug\_ConftSoft_.NovaSenha.resources
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\conftsoftVersoes\_ConftSoft_1\obj\Debug\_ConftSoft_.vbproj.GenerateResource.cache
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\conftsoftVersoes\_ConftSoft_1\obj\Debug\_ConftSoft_.vbproj.CoreCompileInputs.cache
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\conftsoftVersoes\_ConftSoft_1\obj\Debug\_ConftSoft_.exe
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\conftsoftVersoes\_ConftSoft_1\obj\Debug\_ConftSoft_.xml
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\conftsoftVersoes\_ConftSoft_1\obj\Debug\_ConftSoft_.pdb
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\conftsoftVersoes\_ConftSoft_1\obj\Debug\_ConftSoft_.tela_confeiteiro.resources
+F:\2ºsemestre\sistemas de informação\VB.net\Solution1\conftsoftVersoes\_ConftSoft_1\obj\Debug\_ConftSoft_.tela_confeiteiro1.resources
+C:\Users\Aluno\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.frmCodigoConfirmacao.resources
+C:\Users\Aluno\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.tela_confeiteiro.resources
+C:\Users\Aluno\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.tela_confeiteiro1.resources
+C:\Users\fatecscs\Desktop\_ConftSoft_1\bin\Debug\_ConftSoft_.exe.config
+C:\Users\fatecscs\Desktop\_ConftSoft_1\bin\Debug\_ConftSoft_.exe
+C:\Users\fatecscs\Desktop\_ConftSoft_1\bin\Debug\_ConftSoft_.pdb
+C:\Users\fatecscs\Desktop\_ConftSoft_1\bin\Debug\_ConftSoft_.xml
+C:\Users\fatecscs\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.vbprojAssemblyReference.cache
+C:\Users\fatecscs\Desktop\_ConftSoft_1\obj\Debug\Interop.ADODB.dll
+C:\Users\fatecscs\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.vbproj.ResolveComReference.cache
+C:\Users\fatecscs\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.Form1.resources
+C:\Users\fatecscs\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.frmCodigoConfirmacao.resources
+C:\Users\fatecscs\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.frmGerencia.resources
+C:\Users\fatecscs\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.frmPedidos.resources
+C:\Users\fatecscs\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.frmTelaChefeCozinha.resources
+C:\Users\fatecscs\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.Resources.resources
+C:\Users\fatecscs\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.NovaSenha.resources
+C:\Users\fatecscs\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.tela_confeiteiro.resources
+C:\Users\fatecscs\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.tela_confeiteiro1.resources
+C:\Users\fatecscs\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.vbproj.GenerateResource.cache
+C:\Users\fatecscs\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.exe
+C:\Users\fatecscs\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.xml
+C:\Users\fatecscs\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.pdb
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Desktop\_ConftSoft_1\bin\Debug\_ConftSoft_.exe.config
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Desktop\_ConftSoft_1\bin\Debug\_ConftSoft_.exe
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Desktop\_ConftSoft_1\bin\Debug\_ConftSoft_.pdb
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Desktop\_ConftSoft_1\bin\Debug\_ConftSoft_.xml
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.vbproj.AssemblyReference.cache
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Desktop\_ConftSoft_1\obj\Debug\Interop.ADODB.dll
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.vbproj.ResolveComReference.cache
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.Form1.resources
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.frmCodigoConfirmacao.resources
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.frmGerencia.resources
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.frmPedidos.resources
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.frmTelaChefeCozinha.resources
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.Resources.resources
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.NovaSenha.resources
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.tela_confeiteiro.resources
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.tela_confeiteiro1.resources
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.vbproj.GenerateResource.cache
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.vbproj.CoreCompileInputs.cache
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.exe
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.xml
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.pdb
+C:\Users\Isaqu\Desktop\_ConftSoft_1\bin\Debug\_ConftSoft_.exe.config
+C:\Users\Isaqu\Desktop\_ConftSoft_1\bin\Debug\_ConftSoft_.exe
+C:\Users\Isaqu\Desktop\_ConftSoft_1\bin\Debug\_ConftSoft_.pdb
+C:\Users\Isaqu\Desktop\_ConftSoft_1\bin\Debug\_ConftSoft_.xml
+C:\Users\Isaqu\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.vbproj.AssemblyReference.cache
+C:\Users\Isaqu\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Isaqu\Desktop\_ConftSoft_1\obj\Debug\Interop.ADODB.dll
+C:\Users\Isaqu\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.vbproj.ResolveComReference.cache
+C:\Users\Isaqu\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.Form1.resources
+C:\Users\Isaqu\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.frmCodigoConfirmacao.resources
+C:\Users\Isaqu\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.frmGerencia.resources
+C:\Users\Isaqu\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.frmPedidos.resources
+C:\Users\Isaqu\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.frmTelaChefeCozinha.resources
+C:\Users\Isaqu\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.Resources.resources
+C:\Users\Isaqu\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.NovaSenha.resources
+C:\Users\Isaqu\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.tela_confeiteiro.resources
+C:\Users\Isaqu\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.tela_confeiteiro1.resources
+C:\Users\Isaqu\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.vbproj.GenerateResource.cache
+C:\Users\Isaqu\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.vbproj.CoreCompileInputs.cache
+C:\Users\Isaqu\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.exe
+C:\Users\Isaqu\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.xml
+C:\Users\Isaqu\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.pdb
+C:\Users\Isaqu\Desktop\_ConftSoft_1\obj\Debug\_ConftSoft_.frmAdicionarProduto.resources
+D:\_ConftSoft_1\bin\Debug\_ConftSoft_.exe.config
+D:\_ConftSoft_1\bin\Debug\_ConftSoft_.exe
+D:\_ConftSoft_1\bin\Debug\_ConftSoft_.pdb
+D:\_ConftSoft_1\bin\Debug\_ConftSoft_.xml
+D:\_ConftSoft_1\obj\Debug\_ConftSoft_.vbproj.AssemblyReference.cache
+D:\_ConftSoft_1\obj\Debug\_ConftSoft_.vbproj.SuggestedBindingRedirects.cache
+D:\_ConftSoft_1\obj\Debug\Interop.ADODB.dll
+D:\_ConftSoft_1\obj\Debug\_ConftSoft_.vbproj.ResolveComReference.cache
+D:\_ConftSoft_1\obj\Debug\_ConftSoft_.Form1.resources
+D:\_ConftSoft_1\obj\Debug\_ConftSoft_.frmAdicionarProduto.resources
+D:\_ConftSoft_1\obj\Debug\_ConftSoft_.frmGerencia.resources
+D:\_ConftSoft_1\obj\Debug\_ConftSoft_.frmPedidos.resources
+D:\_ConftSoft_1\obj\Debug\_ConftSoft_.frmTelaChefeCozinha.resources
+D:\_ConftSoft_1\obj\Debug\_ConftSoft_.Resources.resources
+D:\_ConftSoft_1\obj\Debug\_ConftSoft_.NovaSenha.resources
+D:\_ConftSoft_1\obj\Debug\_ConftSoft_.tela_confeiteiro.resources
+D:\_ConftSoft_1\obj\Debug\_ConftSoft_.vbproj.GenerateResource.cache
+D:\_ConftSoft_1\obj\Debug\_ConftSoft_.vbproj.CoreCompileInputs.cache
+D:\_ConftSoft_1\obj\Debug\_ConftSoft_.exe
+D:\_ConftSoft_1\obj\Debug\_ConftSoft_.xml
+D:\_ConftSoft_1\obj\Debug\_ConftSoft_.pdb
+D:\_ConftSoft_1\obj\Debug\_ConftSoft_.Form2.resources
+D:\_ConftSoft_1 - Copia\bin\Debug\_ConftSoft_.exe.config
+D:\_ConftSoft_1 - Copia\bin\Debug\_ConftSoft_.exe
+D:\_ConftSoft_1 - Copia\bin\Debug\_ConftSoft_.pdb
+D:\_ConftSoft_1 - Copia\bin\Debug\_ConftSoft_.xml
+D:\_ConftSoft_1 - Copia\obj\Debug\_ConftSoft_.vbproj.AssemblyReference.cache
+D:\_ConftSoft_1 - Copia\obj\Debug\_ConftSoft_.vbproj.SuggestedBindingRedirects.cache
+D:\_ConftSoft_1 - Copia\obj\Debug\Interop.ADODB.dll
+D:\_ConftSoft_1 - Copia\obj\Debug\_ConftSoft_.vbproj.ResolveComReference.cache
+D:\_ConftSoft_1 - Copia\obj\Debug\_ConftSoft_.Form1.resources
+D:\_ConftSoft_1 - Copia\obj\Debug\_ConftSoft_.frmAdicionarProduto.resources
+D:\_ConftSoft_1 - Copia\obj\Debug\_ConftSoft_.frmGerencia.resources
+D:\_ConftSoft_1 - Copia\obj\Debug\_ConftSoft_.frmPedidos.resources
+D:\_ConftSoft_1 - Copia\obj\Debug\_ConftSoft_.Resources.resources
+D:\_ConftSoft_1 - Copia\obj\Debug\_ConftSoft_.NovaSenha.resources
+D:\_ConftSoft_1 - Copia\obj\Debug\_ConftSoft_.vbproj.GenerateResource.cache
+D:\_ConftSoft_1 - Copia\obj\Debug\_ConftSoft_.vbproj.CoreCompileInputs.cache
+D:\_ConftSoft_1 - Copia\obj\Debug\_ConftSoft_.exe
+D:\_ConftSoft_1 - Copia\obj\Debug\_ConftSoft_.xml
+D:\_ConftSoft_1 - Copia\obj\Debug\_ConftSoft_.pdb
+D:\ESD-USB\_ConftSoft_1 - Copia\bin\Debug\_ConftSoft_.exe.config
+D:\ESD-USB\_ConftSoft_1 - Copia\bin\Debug\_ConftSoft_.exe
+D:\ESD-USB\_ConftSoft_1 - Copia\bin\Debug\_ConftSoft_.pdb
+D:\ESD-USB\_ConftSoft_1 - Copia\bin\Debug\_ConftSoft_.xml
+D:\ESD-USB\_ConftSoft_1 - Copia\obj\Debug\_ConftSoft_.vbproj.AssemblyReference.cache
+D:\ESD-USB\_ConftSoft_1 - Copia\obj\Debug\_ConftSoft_.vbproj.SuggestedBindingRedirects.cache
+D:\ESD-USB\_ConftSoft_1 - Copia\obj\Debug\Interop.ADODB.dll
+D:\ESD-USB\_ConftSoft_1 - Copia\obj\Debug\_ConftSoft_.vbproj.ResolveComReference.cache
+D:\ESD-USB\_ConftSoft_1 - Copia\obj\Debug\_ConftSoft_.Form1.resources
+D:\ESD-USB\_ConftSoft_1 - Copia\obj\Debug\_ConftSoft_.frmAdicionarProduto.resources
+D:\ESD-USB\_ConftSoft_1 - Copia\obj\Debug\_ConftSoft_.frmGerencia.resources
+D:\ESD-USB\_ConftSoft_1 - Copia\obj\Debug\_ConftSoft_.frmPedidos.resources
+D:\ESD-USB\_ConftSoft_1 - Copia\obj\Debug\_ConftSoft_.Resources.resources
+D:\ESD-USB\_ConftSoft_1 - Copia\obj\Debug\_ConftSoft_.NovaSenha.resources
+D:\ESD-USB\_ConftSoft_1 - Copia\obj\Debug\_ConftSoft_.vbproj.GenerateResource.cache
+D:\ESD-USB\_ConftSoft_1 - Copia\obj\Debug\_ConftSoft_.vbproj.CoreCompileInputs.cache
+D:\ESD-USB\_ConftSoft_1 - Copia\obj\Debug\_ConftSoft_.exe
+D:\ESD-USB\_ConftSoft_1 - Copia\obj\Debug\_ConftSoft_.xml
+D:\ESD-USB\_ConftSoft_1 - Copia\obj\Debug\_ConftSoft_.pdb
+D:\ESD-USB\_ConftSoft_1 - Copia\obj\Debug\_ConftSoft_.frmAreaChefeCozinha.resources
+D:\_ConftSoft_1 - Copia\obj\Debug\_ConftSoft_.frmAreaChefeCozinha.resources
+C:\Users\tprei\Desktop\_ConftSoft_1 - Copia\bin\Debug\_ConftSoft_.exe.config
+C:\Users\tprei\Desktop\_ConftSoft_1 - Copia\bin\Debug\_ConftSoft_.exe
+C:\Users\tprei\Desktop\_ConftSoft_1 - Copia\bin\Debug\_ConftSoft_.pdb
+C:\Users\tprei\Desktop\_ConftSoft_1 - Copia\bin\Debug\_ConftSoft_.xml
+C:\Users\tprei\Desktop\_ConftSoft_1 - Copia\obj\Debug\_ConftSoft_.vbproj.AssemblyReference.cache
+C:\Users\tprei\Desktop\_ConftSoft_1 - Copia\obj\Debug\_ConftSoft_.vbproj.SuggestedBindingRedirects.cache
+C:\Users\tprei\Desktop\_ConftSoft_1 - Copia\obj\Debug\Interop.ADODB.dll
+C:\Users\tprei\Desktop\_ConftSoft_1 - Copia\obj\Debug\_ConftSoft_.vbproj.ResolveComReference.cache
+C:\Users\tprei\Desktop\_ConftSoft_1 - Copia\obj\Debug\_ConftSoft_.Form1.resources
+C:\Users\tprei\Desktop\_ConftSoft_1 - Copia\obj\Debug\_ConftSoft_.Form2.resources
+C:\Users\tprei\Desktop\_ConftSoft_1 - Copia\obj\Debug\_ConftSoft_.form3.resources
+C:\Users\tprei\Desktop\_ConftSoft_1 - Copia\obj\Debug\_ConftSoft_.frmAdicionarProduto.resources
+C:\Users\tprei\Desktop\_ConftSoft_1 - Copia\obj\Debug\_ConftSoft_.frmAreaChefeCozinha.resources
+C:\Users\tprei\Desktop\_ConftSoft_1 - Copia\obj\Debug\_ConftSoft_.frmGerencia.resources
+C:\Users\tprei\Desktop\_ConftSoft_1 - Copia\obj\Debug\_ConftSoft_.frmPedidos.resources
+C:\Users\tprei\Desktop\_ConftSoft_1 - Copia\obj\Debug\_ConftSoft_.frmTelaChefeCozinha.resources
+C:\Users\tprei\Desktop\_ConftSoft_1 - Copia\obj\Debug\_ConftSoft_.Resources.resources
+C:\Users\tprei\Desktop\_ConftSoft_1 - Copia\obj\Debug\_ConftSoft_.NovaSenha.resources
+C:\Users\tprei\Desktop\_ConftSoft_1 - Copia\obj\Debug\_ConftSoft_.tela_confeiteiro.resources
+C:\Users\tprei\Desktop\_ConftSoft_1 - Copia\obj\Debug\_ConftSoft_.vbproj.GenerateResource.cache
+C:\Users\tprei\Desktop\_ConftSoft_1 - Copia\obj\Debug\_ConftSoft_.vbproj.CoreCompileInputs.cache
+C:\Users\tprei\Desktop\_ConftSoft_1 - Copia\obj\Debug\_ConftSoft_.exe
+C:\Users\tprei\Desktop\_ConftSoft_1 - Copia\obj\Debug\_ConftSoft_.xml
+C:\Users\tprei\Desktop\_ConftSoft_1 - Copia\obj\Debug\_ConftSoft_.pdb
+F:\2ºsemestre\sistemas de informação\VB.net\trabalho\ConftSoft-ultimaVersão\bin\Debug\_ConftSoft_.exe.config
+F:\2ºsemestre\sistemas de informação\VB.net\trabalho\ConftSoft-ultimaVersão\bin\Debug\_ConftSoft_.exe
+F:\2ºsemestre\sistemas de informação\VB.net\trabalho\ConftSoft-ultimaVersão\bin\Debug\_ConftSoft_.pdb
+F:\2ºsemestre\sistemas de informação\VB.net\trabalho\ConftSoft-ultimaVersão\bin\Debug\_ConftSoft_.xml
+F:\2ºsemestre\sistemas de informação\VB.net\trabalho\ConftSoft-ultimaVersão\obj\Debug\_ConftSoft_.vbproj.AssemblyReference.cache
+F:\2ºsemestre\sistemas de informação\VB.net\trabalho\ConftSoft-ultimaVersão\obj\Debug\_ConftSoft_.vbproj.SuggestedBindingRedirects.cache
+F:\2ºsemestre\sistemas de informação\VB.net\trabalho\ConftSoft-ultimaVersão\obj\Debug\Interop.ADODB.dll
+F:\2ºsemestre\sistemas de informação\VB.net\trabalho\ConftSoft-ultimaVersão\obj\Debug\_ConftSoft_.vbproj.ResolveComReference.cache
+F:\2ºsemestre\sistemas de informação\VB.net\trabalho\ConftSoft-ultimaVersão\obj\Debug\_ConftSoft_.Form1.resources
+F:\2ºsemestre\sistemas de informação\VB.net\trabalho\ConftSoft-ultimaVersão\obj\Debug\_ConftSoft_.frmAdicionarProduto.resources
+F:\2ºsemestre\sistemas de informação\VB.net\trabalho\ConftSoft-ultimaVersão\obj\Debug\_ConftSoft_.frmAreaChefeCozinha.resources
+F:\2ºsemestre\sistemas de informação\VB.net\trabalho\ConftSoft-ultimaVersão\obj\Debug\_ConftSoft_.frmGerencia.resources
+F:\2ºsemestre\sistemas de informação\VB.net\trabalho\ConftSoft-ultimaVersão\obj\Debug\_ConftSoft_.frmPedidos.resources
+F:\2ºsemestre\sistemas de informação\VB.net\trabalho\ConftSoft-ultimaVersão\obj\Debug\_ConftSoft_.Resources.resources
+F:\2ºsemestre\sistemas de informação\VB.net\trabalho\ConftSoft-ultimaVersão\obj\Debug\_ConftSoft_.NovaSenha.resources
+F:\2ºsemestre\sistemas de informação\VB.net\trabalho\ConftSoft-ultimaVersão\obj\Debug\_ConftSoft_.vbproj.GenerateResource.cache
+F:\2ºsemestre\sistemas de informação\VB.net\trabalho\ConftSoft-ultimaVersão\obj\Debug\_ConftSoft_.vbproj.CoreCompileInputs.cache
+F:\2ºsemestre\sistemas de informação\VB.net\trabalho\ConftSoft-ultimaVersão\obj\Debug\_ConftSoft_.exe
+F:\2ºsemestre\sistemas de informação\VB.net\trabalho\ConftSoft-ultimaVersão\obj\Debug\_ConftSoft_.xml
+F:\2ºsemestre\sistemas de informação\VB.net\trabalho\ConftSoft-ultimaVersão\obj\Debug\_ConftSoft_.pdb
+D:\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\bin\Debug\_ConftSoft_.exe.config
+D:\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\bin\Debug\_ConftSoft_.exe
+D:\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\bin\Debug\_ConftSoft_.pdb
+D:\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\bin\Debug\_ConftSoft_.xml
+D:\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\obj\Debug\_ConftSoft_.vbproj.AssemblyReference.cache
+D:\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\obj\Debug\_ConftSoft_.vbproj.SuggestedBindingRedirects.cache
+D:\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\obj\Debug\Interop.ADODB.dll
+D:\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\obj\Debug\_ConftSoft_.vbproj.ResolveComReference.cache
+D:\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\obj\Debug\_ConftSoft_.Form1.resources
+D:\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\obj\Debug\_ConftSoft_.frmAdicionarProduto.resources
+D:\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\obj\Debug\_ConftSoft_.frmAreaChefeCozinha.resources
+D:\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\obj\Debug\_ConftSoft_.frmGerencia.resources
+D:\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\obj\Debug\_ConftSoft_.frmPedidos.resources
+D:\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\obj\Debug\_ConftSoft_.Resources.resources
+D:\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\obj\Debug\_ConftSoft_.NovaSenha.resources
+D:\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\obj\Debug\_ConftSoft_.vbproj.GenerateResource.cache
+D:\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\obj\Debug\_ConftSoft_.vbproj.CoreCompileInputs.cache
+D:\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\obj\Debug\_ConftSoft_.exe
+D:\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\obj\Debug\_ConftSoft_.xml
+D:\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\obj\Debug\_ConftSoft_.pdb
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\bin\Debug\_ConftSoft_.exe.config
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\bin\Debug\_ConftSoft_.exe
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\bin\Debug\_ConftSoft_.pdb
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\bin\Debug\_ConftSoft_.xml
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\obj\Debug\_ConftSoft_.vbproj.AssemblyReference.cache
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\obj\Debug\_ConftSoft_.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\obj\Debug\Interop.ADODB.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\obj\Debug\_ConftSoft_.vbproj.ResolveComReference.cache
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\obj\Debug\_ConftSoft_.Form1.resources
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\obj\Debug\_ConftSoft_.frmAdicionarProduto.resources
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\obj\Debug\_ConftSoft_.frmAreaChefeCozinha.resources
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\obj\Debug\_ConftSoft_.frmGerencia.resources
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\obj\Debug\_ConftSoft_.frmPedidos.resources
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\obj\Debug\_ConftSoft_.Resources.resources
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\obj\Debug\_ConftSoft_.NovaSenha.resources
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\obj\Debug\_ConftSoft_.vbproj.GenerateResource.cache
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\obj\Debug\_ConftSoft_.vbproj.CoreCompileInputs.cache
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\obj\Debug\_ConftSoft_.exe
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\obj\Debug\_ConftSoft_.xml
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\obj\Debug\_ConftSoft_.pdb
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\bin\Debug\EnvDTE.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\bin\Debug\stdole.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\obj\Debug\_ConftSoft_.vbproj.CopyComplete
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\obj\Debug\_ConftSoft_.frmRelatorio.resources
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\obj\Debug\Interop.MSDAOSP.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft-VersãoMenosQuebrada\obj\Debug\Interop.MSDASC.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\obj\Debug\_ConftSoft_.vbproj.AssemblyReference.cache
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\obj\Debug\_ConftSoft_.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\obj\Debug\Interop.ADODB.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\obj\Debug\Interop.MSDAOSP.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\obj\Debug\Interop.MSDASC.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\obj\Debug\_ConftSoft_.vbproj.ResolveComReference.cache
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\obj\Debug\_ConftSoft_.Form1.resources
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\obj\Debug\_ConftSoft_.frmAdicionarProduto.resources
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\obj\Debug\_ConftSoft_.frmAreaChefeCozinha.resources
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\obj\Debug\_ConftSoft_.frmGerencia.resources
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\obj\Debug\_ConftSoft_.frmPedidos.resources
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\obj\Debug\_ConftSoft_.Resources.resources
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\obj\Debug\_ConftSoft_.NovaSenha.resources
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\obj\Debug\_ConftSoft_.vbproj.GenerateResource.cache
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\obj\Debug\_ConftSoft_.vbproj.CoreCompileInputs.cache
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\obj\Debug\_ConftSoft_.exe
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\obj\Debug\_ConftSoft_.xml
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\obj\Debug\_ConftSoft_.pdb
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\bin\Debug\_ConftSoft_.exe.config
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\bin\Debug\_ConftSoft_.exe
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\bin\Debug\_ConftSoft_.pdb
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\bin\Debug\_ConftSoft_.xml
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\bin\Debug\EnvDTE.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\bin\Debug\stdole.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\obj\Debug\_ConftSoft_.vbproj.CopyComplete
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\obj\Debug\_ConftSoft_.frmRelatorio.resources
+C:\Users\Isaqu\Desktop\ProjetoInterDiciplinar\ConftSoft\obj\Debug\_ConftSoft_.frmSplash.resources
+F:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\_ConftSoft_.exe.config
+F:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\_ConftSoft_.exe
+F:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\_ConftSoft_.pdb
+F:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\_ConftSoft_.xml
+F:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\EnvDTE.dll
+F:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\stdole.dll
+F:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ProjetoInterDiciplinar\ConftSoft\obj\Debug\_ConftSoft_.vbproj.AssemblyReference.cache
+F:\ProjetoInterDiciplinar\ConftSoft\obj\Debug\_ConftSoft_.vbproj.SuggestedBindingRedirects.cache
+F:\ProjetoInterDiciplinar\ConftSoft\obj\Debug\Interop.ADODB.dll
+F:\ProjetoInterDiciplinar\ConftSoft\obj\Debug\Interop.MSDAOSP.dll
+F:\ProjetoInterDiciplinar\ConftSoft\obj\Debug\Interop.MSDASC.dll
+F:\ProjetoInterDiciplinar\ConftSoft\obj\Debug\_ConftSoft_.vbproj.ResolveComReference.cache
+F:\ProjetoInterDiciplinar\ConftSoft\obj\Debug\_ConftSoft_.Form1.resources
+F:\ProjetoInterDiciplinar\ConftSoft\obj\Debug\_ConftSoft_.frmAdicionarProduto.resources
+F:\ProjetoInterDiciplinar\ConftSoft\obj\Debug\_ConftSoft_.frmAreaChefeCozinha.resources
+F:\ProjetoInterDiciplinar\ConftSoft\obj\Debug\_ConftSoft_.frmGerencia.resources
+F:\ProjetoInterDiciplinar\ConftSoft\obj\Debug\_ConftSoft_.frmPedidos.resources
+F:\ProjetoInterDiciplinar\ConftSoft\obj\Debug\_ConftSoft_.frmRelatorio.resources
+F:\ProjetoInterDiciplinar\ConftSoft\obj\Debug\_ConftSoft_.frmSplash.resources
+F:\ProjetoInterDiciplinar\ConftSoft\obj\Debug\_ConftSoft_.Resources.resources
+F:\ProjetoInterDiciplinar\ConftSoft\obj\Debug\_ConftSoft_.NovaSenha.resources
+F:\ProjetoInterDiciplinar\ConftSoft\obj\Debug\_ConftSoft_.vbproj.GenerateResource.cache
+F:\ProjetoInterDiciplinar\ConftSoft\obj\Debug\_ConftSoft_.vbproj.CoreCompileInputs.cache
+F:\ProjetoInterDiciplinar\ConftSoft\obj\Debug\_ConftSoft_.vbproj.CopyComplete
+F:\ProjetoInterDiciplinar\ConftSoft\obj\Debug\_ConftSoft_.exe
+F:\ProjetoInterDiciplinar\ConftSoft\obj\Debug\_ConftSoft_.xml
+F:\ProjetoInterDiciplinar\ConftSoft\obj\Debug\_ConftSoft_.pdb
+D:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\_ConftSoft_.exe.config
+D:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\_ConftSoft_.exe
+D:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\_ConftSoft_.pdb
+D:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\_ConftSoft_.xml
+D:\ProjetoInterDiciplinar\ConftSoft\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\ProjetoInterDiciplinar\ConftSoft\obj\Debug\_ConftSoft_.vbproj.AssemblyReference.cache
+D:\ProjetoInterDiciplinar\ConftSoft\obj\Debug\_ConftSoft_.vbproj.SuggestedBindingRedirects.cache
+D:\ProjetoInterDiciplinar\ConftSoft\obj\Debug\Interop.ADODB.dll
+D:\ProjetoInterDiciplinar\ConftSoft\obj\Debug\Interop.MSDAOSP.dll
+D:\ProjetoInterDiciplinar\ConftSoft\obj\Debug\Interop.MSDASC.dll
+D:\ProjetoInterDiciplinar\ConftSoft\obj\Debug\_ConftSoft_.vbproj.ResolveComReference.cache
+D:\ProjetoInterDiciplinar\ConftSoft\obj\Debug\_ConftSoft_.Form1.resources
+D:\ProjetoInterDiciplinar\ConftSoft\obj\Debug\_ConftSoft_.frmAdicionarProduto.resources
+D:\ProjetoInterDiciplinar\ConftSoft\obj\Debug\_ConftSoft_.frmAreaChefeCozinha.resources
+D:\ProjetoInterDiciplinar\ConftSoft\obj\Debug\_ConftSoft_.frmGerencia.resources
+D:\ProjetoInterDiciplinar\ConftSoft\obj\Debug\_ConftSoft_.frmPedidos.resources
+D:\ProjetoInterDiciplinar\ConftSoft\obj\Debug\_ConftSoft_.frmRelatorio.resources
+D:\ProjetoInterDiciplinar\ConftSoft\obj\Debug\_ConftSoft_.frmSplash.resources
+D:\ProjetoInterDiciplinar\ConftSoft\obj\Debug\_ConftSoft_.Resources.resources
+D:\ProjetoInterDiciplinar\ConftSoft\obj\Debug\_ConftSoft_.NovaSenha.resources
+D:\ProjetoInterDiciplinar\ConftSoft\obj\Debug\_ConftSoft_.vbproj.GenerateResource.cache
+D:\ProjetoInterDiciplinar\ConftSoft\obj\Debug\_ConftSoft_.vbproj.CoreCompileInputs.cache
+D:\ProjetoInterDiciplinar\ConftSoft\obj\Debug\_ConftSoft_.vbproj.CopyComplete
+D:\ProjetoInterDiciplinar\ConftSoft\obj\Debug\_ConftSoft_.exe
+D:\ProjetoInterDiciplinar\ConftSoft\obj\Debug\_ConftSoft_.xml
+D:\ProjetoInterDiciplinar\ConftSoft\obj\Debug\_ConftSoft_.pdb
+C:\Users\Isaque\Desktop\ConftSoft-main\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Isaque\Desktop\ConftSoft-main\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Isaque\Desktop\ConftSoft-main\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Isaque\Desktop\ConftSoft-main\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Isaque\Desktop\ConftSoft-main\bin\Debug\_ConftSoft_.exe.config
+C:\Users\Isaque\Desktop\ConftSoft-main\bin\Debug\_ConftSoft_.exe
+C:\Users\Isaque\Desktop\ConftSoft-main\bin\Debug\_ConftSoft_.pdb
+C:\Users\Isaque\Desktop\ConftSoft-main\bin\Debug\_ConftSoft_.xml
+C:\Users\Isaque\Desktop\ConftSoft-main\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Isaque\Desktop\ConftSoft-main\obj\Debug\_ConftSoft_.vbproj.AssemblyReference.cache
+C:\Users\Isaque\Desktop\ConftSoft-main\obj\Debug\_ConftSoft_.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Isaque\Desktop\ConftSoft-main\obj\Debug\Interop.ADODB.dll
+C:\Users\Isaque\Desktop\ConftSoft-main\obj\Debug\Interop.MSDAOSP.dll
+C:\Users\Isaque\Desktop\ConftSoft-main\obj\Debug\Interop.MSDASC.dll
+C:\Users\Isaque\Desktop\ConftSoft-main\obj\Debug\_ConftSoft_.vbproj.ResolveComReference.cache
+C:\Users\Isaque\Desktop\ConftSoft-main\obj\Debug\_ConftSoft_.Form1.resources
+C:\Users\Isaque\Desktop\ConftSoft-main\obj\Debug\_ConftSoft_.frmAdicionarProduto.resources
+C:\Users\Isaque\Desktop\ConftSoft-main\obj\Debug\_ConftSoft_.frmAreaChefeCozinha.resources
+C:\Users\Isaque\Desktop\ConftSoft-main\obj\Debug\_ConftSoft_.frmGerencia.resources
+C:\Users\Isaque\Desktop\ConftSoft-main\obj\Debug\_ConftSoft_.frmPedidos.resources
+C:\Users\Isaque\Desktop\ConftSoft-main\obj\Debug\_ConftSoft_.frmRelatorio.resources
+C:\Users\Isaque\Desktop\ConftSoft-main\obj\Debug\_ConftSoft_.frmSplash.resources
+C:\Users\Isaque\Desktop\ConftSoft-main\obj\Debug\_ConftSoft_.Resources.resources
+C:\Users\Isaque\Desktop\ConftSoft-main\obj\Debug\_ConftSoft_.NovaSenha.resources
+C:\Users\Isaque\Desktop\ConftSoft-main\obj\Debug\_ConftSoft_.vbproj.GenerateResource.cache
+C:\Users\Isaque\Desktop\ConftSoft-main\obj\Debug\_ConftSoft_.vbproj.CoreCompileInputs.cache
+C:\Users\Isaque\Desktop\ConftSoft-main\obj\Debug\_ConftSoft_.vbproj.CopyComplete
+C:\Users\Isaque\Desktop\ConftSoft-main\obj\Debug\_ConftSoft_.exe
+C:\Users\Isaque\Desktop\ConftSoft-main\obj\Debug\_ConftSoft_.xml
+C:\Users\Isaque\Desktop\ConftSoft-main\obj\Debug\_ConftSoft_.pdb
